@@ -1,0 +1,2 @@
+C:\Users\McCracken\Desktop\Code\Cpp\Compiler\Project1\Debug\Compiler.exe
+C:\Users\McCracken\Desktop\Code\Cpp\Compiler\Project1\Debug\Compiler.pdb
